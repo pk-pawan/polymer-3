@@ -9,4 +9,4 @@ Polymer: `npm install -g polymer-cli`<br>
 `npm install` <br>
 `polymer serve`
 
-![polymer-3](https://user-images.githubusercontent.com/41233916/44167412-a7562700-a0eb-11e8-9955-5ddc22b23153.PNG)
+![polymer-3](https://user-images.githubusercontent.com/41233916/44167785-c5705700-a0ec-11e8-9075-6ca07d385633.PNG)
